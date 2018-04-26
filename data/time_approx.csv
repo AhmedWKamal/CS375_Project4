@@ -29,7 +29,7 @@ Size, Algo, Time
 1500, Greedy Search, 0.014916717002051882
 1500, Greedy Search, 0.015697501999966335
 1500, Greedy Search, 0.016908560999581823
-
+,,
 Size, Algo, Time, MAX_threshold
 10, Random Search, 0.012036669999361038, 1000
 10, Random Search, 0.00894392700138269, 1000
